@@ -1,0 +1,1 @@
+Python es un lenguaje de programación de alto nivel cuya filosofía hace hincapié en la legibilidad de su código, se utiliza para desarrollar aplicaciones de todo tipo principalmente backend.
